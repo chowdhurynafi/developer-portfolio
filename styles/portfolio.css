@@ -6,7 +6,7 @@
 nav{
     display:flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title {
     font-weight: 800;
@@ -100,7 +100,7 @@ nav li {
     font-size: 20px;
     color: #474747;
 }
-.what-I-do{
+.what-i-do{
     margin-top:130px ;
 }
 .skills-container{
